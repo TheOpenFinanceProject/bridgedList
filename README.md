@@ -7,7 +7,7 @@ README.md
 //Credit Must be Given to CREATOR : The Open Finance Project
 
 Token obect ar as follows for bridged tokens
-
+```javascript
   BUSD: {
     Symbol: "bscBUSD", 													//Symbol of the TOKEN
     name: "Binance-Peg BUSD Token", 									//Name of the TOKEN
@@ -19,7 +19,7 @@ Token obect ar as follows for bridged tokens
     oneImg: "",															//Watermarked token image src on Harmony
     decimals: 18														//Number of Decimals
   }
-
+```
 
 
   To Verify Token Data please use the Corresponding Block explorer (if bscAddress use bsc explorer || if ethAddress us ethereum explorer || if oneAddress use Harmony explorer)
